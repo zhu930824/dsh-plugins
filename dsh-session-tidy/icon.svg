@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Session title tidy">
+  <rect x="4" y="6" width="56" height="52" rx="12" fill="#1f6feb" opacity="0.12"/>
+  <g stroke="#1f6feb" stroke-width="4" stroke-linecap="round">
+    <path d="M16 22h22"/>
+    <path d="M16 32h14"/>
+    <path d="M16 42h10"/>
+  </g>
+  <path d="M46 24l2.2 5.4L54 31l-5.8 1.6L46 38l-2.2-5.4L38 31l5.8-1.6z" fill="#1f6feb"/>
+</svg>
