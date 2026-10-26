@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Kang DSH Plugins",
+    "zh": "Kang 的 DSH 插件"
+  },
+  "description": {
+    "en": "DSH plugins maintained by zhuxiaokang.",
+    "zh": "zhuxiaokang 维护的 DSH 插件。"
+  },
+  "metadata": {
+    "categories": {
+      "productivity": {
+        "title": {
+          "en": "Productivity",
+          "zh": "效率"
+        }
+      }
+    },
+    "labels": {
+      "naming": {
+        "title": {
+          "en": "Naming",
+          "zh": "命名"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-session-tidy",
+      "title": {
+        "en": "Task Naming Assistant",
+        "zh": "任务批量命名助手"
+      },
+      "description": {
+        "en": "Names the current DSH task as MMDD｜type｜topic, then tidies, archives and pins sidebar sessions in bulk.",
+        "zh": "把当前任务命名为 MMDD｜类型｜主题，并可批量整理、归档、置顶侧栏会话。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlNlc3Npb24gdGl0bGUgdGlkeSI+CiAgPHJlY3QgeD0iNCIgeT0iNiIgd2lkdGg9IjU2IiBoZWlnaHQ9IjUyIiByeD0iMTIiIGZpbGw9IiMxZjZmZWIiIG9wYWNpdHk9IjAuMTIiLz4KICA8ZyBzdHJva2U9IiMxZjZmZWIiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj4KICAgIDxwYXRoIGQ9Ik0xNiAyMmgyMiIvPgogICAgPHBhdGggZD0iTTE2IDMyaDE0Ii8+CiAgICA8cGF0aCBkPSJNMTYgNDJoMTAiLz4KICA8L2c+CiAgPHBhdGggZD0iTTQ2IDI0bDIuMiA1LjRMNTQgMzFsLTUuOCAxLjZMNDYgMzhsLTIuMi01LjRMMzggMzFsNS44LTEuNnoiIGZpbGw9IiMxZjZmZWIiLz4KPC9zdmc+Cg==",
+      "author": "zhuxiaokang",
+      "homepage": "https://github.com/zhu930824/dsh-plugins",
+      "repository": {
+        "url": "https://github.com/zhu930824/dsh-plugins",
+        "directory": "dsh-session-tidy"
+      },
+      "metadata": {
+        "category": "productivity",
+        "keywords": [
+          "任务名",
+          "命名",
+          "标题",
+          "session",
+          "naming",
+          "title"
+        ],
+        "labels": [
+          "naming"
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1792999082,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/zhu930824/dsh-plugins",
+            "commit": "c8d233157e66a4a640c1803135c21f31a99c8c5d",
+            "path": "dsh-session-tidy"
+          }
+        }
+      ]
+    }
+  ]
+}
